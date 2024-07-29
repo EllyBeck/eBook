@@ -1,0 +1,47 @@
+body { 
+      text-align: left; 
+      background-color: cornsilk;
+      margin: 0 10%;
+      font-family: Helvetica, sans-serif;
+    }
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 4px;
+    
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #333333;
+    padding: 4px;
+    margin: 0 .5in; /* 1/2 inch separation */
+}
+
+
+            
+h1 {
+                 text-align: center;
+                 font-family: Arial, Helvetica, sans-serif;
+                 font-weight: bold;
+                 text-transform: uppercase;
+                 border-bottom: 1 px solid #68b1dc;
+                 margin-top: 30px;
+             }
+             
+ h2 {
+                 text-align: left;
+                 font-family: Arial, Helvetica, sans-serif;
+                 font-weight: normal;
+                 text-transform: capitalize;
+                 color: #35a9ee;
+}
+   
+img {
+    float: right;
+    margin: 0 12px;
+}
+ 
+
+   
